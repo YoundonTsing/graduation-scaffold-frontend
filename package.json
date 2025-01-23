@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "X-Admin Frontend",
   "scripts": {
-    "build": "mkdir -p dist && cp -r public/* dist/ && cp public/page/front/index.html dist/index.html"
+    "build": "echo 'Static site'"
   },
   "keywords": ["admin", "vue"],
   "author": "YoundonTsing",
